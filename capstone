@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.8em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>My Resume</h1>
+    </header>
+
+    <section>
+        <h2>Summary</h2>
+        <p>Experienced in managing insurance claims, including complex cases in boat, commercial, farm and ranch, and homeowners claims. Skilled in leading cross-functional teams to deliver high-quality solutions in fast-paced environments. Currently expanding technical expertise through a coding bootcamp to integrate technical skills.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>High School Diploma</strong>, William Howard Taft, Chicago, Illinois, 2014 - 2018</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <ul>
+            <li>
+                <strong>Claims Adjuster</strong>, State Farm, July 2023 - Present
+                <ul>
+                    <li>Managing claims related to boat, commercial, farm, and ranch.</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Independent Adjuster</strong>, Eberl Claims Service, March 2023 - June 2023
+                <ul>
+                    <li>Handled homeowners claims for State Farm.</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Independent Adjuster</strong>, Renfroe, October 2022 - February 2023
+                <ul>
+                    <li>Focused on homeowners claims management.</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Carpenter</strong>, January 2022 - October 2022
+                <ul>
+                    <li>Performed carpentry work on various projects.</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Supply Specialist</strong>, U.S. Army, January 2021 - December 2021
+                <ul>
+                    <li>Worked with infantry units in the field, training and learning combat skills.</li>
+                </ul>
+            </li>
+            <li>
+                <strong>Carpenter</strong>, 2016 - 2021
+                <ul>
+                    <li>Engaged in carpentry projects and skill development.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Property and BCFR claims handling</li>
+            <li>Complex claims management</li>
+            <li>Risk assessment & mitigation</li>
+            <li>Customer service and negotiation</li>
+            <li>Insurance regulations and compliance</li>
+            <li>Claims adjusting and settlement</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Git/GitHub version control</li>
+            <li>Frontend and backend development</li>
+            <li>Problem solving and debugging</li>
+            <li>Agile development practices</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Awards and Certifications</h2>
+        <ul>
+            <li>Agile Product Owner Role: Foundations</li>
+            <li>AWS Certified Solutions Architect</li>
+            <li>Agile Product Owner Role: Techniques</li>
+        </ul>
+    </section>
+
+    <nav>
+        <h2>More About Me</h2>
+        <ul>
+            <li><a href="hobbies.html">Hobb
